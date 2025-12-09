@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Eternity Bright（LADY'S ONLY Remix）",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-09T10:40:08.635519Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eternity Bright - LADY'S ONLY Remix",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_Eternity_Bright_-_LADY'S_ONLY_Remix_AZKi.txt"
+    }
+  ]
+}
